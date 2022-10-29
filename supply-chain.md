@@ -3,7 +3,7 @@ layout: page
 title:  Supply Chains
 author: Steve Lasker
 permalink: /supply-chain
-nav_order: 1
+nav_order: 2
 has_children: true
 has_toc: false
 ---
@@ -48,8 +48,8 @@ As artifacts move across the supply chain, the integrity of the artifact must be
 
 The following are examples how you may distribute supply chain artifacts:
 
-- [Distributing with OCI Registries]({% link distributing-with-oci-registries.md %})
-- [Distributing with OCI Registries, with SCITT Enhancements]({% link distributing-with-oci-scitt.md %})
+- [Distributing with OCI Registries]({% link deployments/distributing-with-oci-registries.md %})
+- [Distributing with OCI Registries, with SCITT Enhancements]({% link deployments/distributing-with-oci-scitt.md %})
 
 [cose-spec]:               https://datatracker.ietf.org/doc/html/rfc8152
 [oras-copy]:               https://oras.land/blog/oras-0.14-and-future/#copy-an-image-from-registry-a-to-registry-b
