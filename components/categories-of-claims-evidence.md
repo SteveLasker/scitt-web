@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Claims and Evidence"
-author: Steve Lasker
 parent: Components
 nav_order: 2
 ---

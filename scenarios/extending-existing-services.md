@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  Extending Services
-author: Steve Lasker
 parent: Scenarios
 nav_order: 2
 ---

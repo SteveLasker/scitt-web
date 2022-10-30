@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Indexing Content Types"
-author: Steve Lasker
 parent: Components
 nav_order: 4
 ---

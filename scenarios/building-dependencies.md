@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  Building & Consuming Dependencies
-author: Steve Lasker
 parent: Scenarios
 nav_order: 1
 ---

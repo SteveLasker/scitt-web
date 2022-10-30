@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Detached Artifacts"
-author: Steve Lasker
 parent: Components
 nav_order: 3
 ---

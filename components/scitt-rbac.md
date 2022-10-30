@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Role Based Access Control"
-author: Steve Lasker
 parent: Components
 nav_order: 5
 ---

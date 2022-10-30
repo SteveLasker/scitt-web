@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Multiple Instances of SCITT"
-author: Steve Lasker
 parent: Supply Chains
 nav_order: 3
 ---

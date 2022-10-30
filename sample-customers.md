@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  Sample Customer Scenarios
-author: Steve Lasker
 nav_order: 9
 ---
 

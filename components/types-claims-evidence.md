@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Supported Types of Claims and Evidence"
-author: Steve Lasker
 parent: Components
 nav_order: 5
 ---

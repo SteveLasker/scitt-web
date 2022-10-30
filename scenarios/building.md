@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  Building Apps
-author: Steve Lasker
 parent: Scenarios
 nav_order: 2
 ---

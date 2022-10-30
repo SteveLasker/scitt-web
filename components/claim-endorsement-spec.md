@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Claims & Endorsement Spec"
-author: Steve Lasker
 parent: Components
 nav_order: 2
 ---

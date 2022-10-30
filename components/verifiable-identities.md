@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Verifiable Identities"
-author: Steve Lasker
 parent: Components
 nav_order: 2
 ---

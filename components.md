@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  Components
-author: Steve Lasker
 nav_order: 1
 has_children: true
 has_toc: false

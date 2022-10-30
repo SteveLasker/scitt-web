@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "eNotary"
-author: Steve Lasker
 parent: Components
 nav_order: 1
 ---
