@@ -40,3 +40,5 @@ The SCITT APIs are exposed through the underlying storage providers APIs. In the
 
 > TODO: 
 > describe updated streams, including redirection, EOL and revocation scenarios.
+
+[ietf-scitt-receipts]: https://datatracker.ietf.org/doc/draft-birkholz-scitt-receipts/
